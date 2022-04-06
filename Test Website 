@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Hello World Website</title>
+    </head>
+    <body>
+        <h3>Hello Subshell!</h3>
+        <button onclick="logHelloWorld()">Log Hello World</button>
+        <script>
+            function logHelloWorld() {
+            console.log("Hello World!");
+            }
+        </script>
+    </body>
+</html>
